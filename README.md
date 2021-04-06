@@ -7,13 +7,12 @@
 <img src="https://user-images.githubusercontent.com/54434107/113741938-65e27200-9702-11eb-984d-4511a5446d14.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/54434107/113742201-a9d57700-9702-11eb-9da0-61a5e85a2a5b.png" width="50%" height="50%">
 <img src="https://user-images.githubusercontent.com/54434107/113742311-c96c9f80-9702-11eb-901e-9ee6abe93784.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/54434107/113742429-e99c5e80-9702-11eb-9797-cce0de5879ea.png" width="50%" height="50%">
 <img src="https://user-images.githubusercontent.com/54434107/113742527-fe78f200-9702-11eb-9290-b1dc368ae1d6.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/54434107/113742618-118bc200-9703-11eb-924c-6b2f577f7e17.png" width="50%" height="50%">
-<img src="https://user-images.githubusercontent.com/54434107/113742654-1e101a80-9703-11eb-92bc-bd18d9b634dc.png" width="50%" height="50%">
-
+<img src="https://user-images.githubusercontent.com/54434107/113742654-1e101a80-9703-11eb-92bc-bd18d9b634dc.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/54434107/113743501-0ab17f00-9704-11eb-8f1b-c8965fb4cb34.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/54434107/113743537-113ff680-9704-11eb-9537-37b17633c301.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/54434107/113743580-1ef57c00-9704-11eb-83ce-8d7d83807f12.png" width="50%" height="50%">
 
 Decks is an web application that allows users to generate and share their own digital flash cards and practice learning them in a fun, intuitive way with their friends.
 
 The app was written entirely in Typescript and was developed by a team of 3 developers who are mentioned below. 👱‍♂️🧔👩
-
 
 ## Tech Stack 🖥
 
